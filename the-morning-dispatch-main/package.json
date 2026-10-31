@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guptakartike/the-morning-dispatch.git"
+    "url": "git+https://github.com/HarshitVishwakarma826/the-morning-dispatch.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Harshit",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/guptakartike/the-morning-dispatch/issues"
+    "url": "https://github.com/HarshitVishwakarma826/the-morning-dispatch/issues"
   },
-  "homepage": "https://github.com/guptakartike/the-morning-dispatch#readme",
+  "homepage": "https://github.com/HarshitVishwakarma826/the-morning-dispatch#readme",
   "dependencies": {
     "axios": "^1.16.1",
     "cors": "^2.8.6",
